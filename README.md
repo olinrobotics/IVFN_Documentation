@@ -1,2 +1,2 @@
 # IVFN_Documentation
-Documentation Repository for the Intelligent Vehicle Field Network
+Documentation Repository for the Intelligent Vehicle Field Network (IVFN)
